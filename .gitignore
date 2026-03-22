@@ -1,0 +1,11 @@
+# Jupyter Notebook outputs
+*.ipynb_checkpoints
+**/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Data (too large for GitHub)
+data/
